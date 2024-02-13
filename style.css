@@ -4,3 +4,19 @@
     font-family: 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(165, 203, 190);
+}
+.buttons{
+    margin: 50px;
+}
+.buttons button{
+    background: #333;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    width: 120px;
+    height: 40px;
+    margin: 5px;
+    cursor: pointer;
+}
